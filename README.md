@@ -99,7 +99,7 @@
 TBU
 
 ## 차선 검출
-[검출 과정](./docs/images/라인디텍팅과정.png)
+![검출 과정](./docs/images/라인디텍팅과정.png)
 
 ## 코드
 TBU
